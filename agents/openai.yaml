@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChatGPT Full PDF Export"
+  short_description: "Export long virtualized ChatGPT conversations to complete PDFs."
+  default_prompt: "Export this long ChatGPT conversation as a complete PDF, including lazily loaded messages and visible image attachments."
